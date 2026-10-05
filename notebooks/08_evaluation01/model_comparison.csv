@@ -1,0 +1,5 @@
+Metric,Original Model,Leakage-Safe Model
+MAE,7.0178,5.0807
+RMSE,20.7851,12.7841
+R2,0.4628,0.7968
+Explained Variance,0.4714,0.7968
