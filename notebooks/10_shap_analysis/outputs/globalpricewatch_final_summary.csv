@@ -1,0 +1,20 @@
+Section,Value
+Project,GlobalPriceWatch
+Primary Model,Leakage_Safe_GRU_MultiHead_Temporal_Attention
+Test Observations,579
+Countries,193
+Test Years,2023–2025
+MAE,5.080652
+RMSE,12.784086
+R2,0.796764
+Explained Variance,0.796769
+Within ±1 pp,18.31
+Within ±2.5 pp,49.74
+Within ±5 pp,80.66
+Within ±10 pp,91.36
+SHAP Method,KernelExplainer
+SHAP Explained Observations,20
+SHAP Background Observations,20
+SHAP Top Feature,Sequence_Lag_1
+SHAP Dominant Feature Group,Recent Time-Series Sequence
+SHAP Dominant Group Contribution,62.129223
