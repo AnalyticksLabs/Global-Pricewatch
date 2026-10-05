@@ -1,2 +1,0 @@
-Experiment,Validation_MAE,Validation_RMSE,Validation_R2,Best_Epoch,Best_Val_Loss
-Experiment 5 - Feature-Weighted Rich GRU,5.718905488597717,19.623662138785367,0.7061899958515433,13,5.263265609741211
